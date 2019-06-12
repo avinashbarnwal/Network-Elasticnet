@@ -1,4 +1,4 @@
-setwd('/Users/avinashbarnwal/Desktop/Research/PhD/Network_Lasso/NYSDS-2019/Result')
+setwd('/Users/avinashbarnwal/Desktop/Research/PhD/network_elasticnet/NYSDS-2019/result/')
 library(ggplot2)
 
 data = read.table("AIC_performance.csv",header=TRUE,sep=",")

@@ -1,6 +1,5 @@
-**Network ElasticNet**
+Network ElasticNet
 
-- This includes workings of new model Network ElasticNet. 
-- This is going to be presented at https://www.bnl.gov/nysds19/ as poster.
-- Poster Paper presented at NYSDS-IEEE-2019 -  https://arxiv.org/abs/1908.11833
+Barnwal, A.(2019). Network Elastic Net for Identifying Smoking specific gene expression for lung cancer. Proceedings of IEEE (NYSDS 2019), New York City, NY, USA.
+
 
